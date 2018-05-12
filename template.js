@@ -1,0 +1,1 @@
+alert('start your laya study');
