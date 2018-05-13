@@ -1,6 +1,6 @@
 Laya.init(Laya.Browser.width, Laya.Browser.height);
 
-// Laya.stage.scaleMode = 'showall';
+Laya.stage.scaleMode = 'showall';
 Laya.stage.alignH = 'center';
 Laya.stage.alignV = 'middle';
 Laya.stage.bgColor = "#232628";
